@@ -30,4 +30,4 @@ A simple automatic meeting record & summarization tool. (3 participants)
 ## Tested Environment
 - MacOS 10.14.6
 - zsh
-- Blue Yeti
+- Blue Yeti Microphone
