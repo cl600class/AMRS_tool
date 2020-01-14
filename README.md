@@ -11,6 +11,10 @@ A simple automatic meeting record & summarization tool. (3 participants)
 - Microphone
 - Internet Connection
 - (Optional) Replace the original ```stopwords.txt``` in ```.../site-packages/textrank4zh/``` for traditional Chinese support.
+## Files
+- record.py: record the voice of the participants & process by Google Speech Recognition
+- convert.py: transform the meeting transcript into individual transcripts
+- summarize.py: for all the individual transcripts, perform TextRank respectively
 ## Run
 - Run the main program
 ```console
