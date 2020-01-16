@@ -6,12 +6,12 @@ def start_convert(path):
     # convert encoding
     encoding1 = "cp950"
     encoding2 = "utf-8"
-    # f = open(path, "r", encoding = encoding2)
-    # content = f.read()
-    # f.close()
-    # f = open("temp_t.txt", "w", encoding = encoding2)
-    # f.write(content)
-    # f.close()
+    #f = open(path, "r", encoding = encoding2)
+    #content = f.read()
+    #f.close()
+    #f = open("temp_t.txt", "w", encoding = encoding2)
+    #f.write(content)
+    #f.close()
     # start processing
     with open(path, "r", encoding = encoding2) as f:
         lines = f.readlines()
