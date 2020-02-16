@@ -1,4 +1,4 @@
-# DSP_Final
+# AMRS_toool
 A simple automatic meeting record & summarization tool. (3 participants)
 ## Requirements
 - Python >= 3.7.4
